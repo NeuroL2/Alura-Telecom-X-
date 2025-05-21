@@ -45,4 +45,4 @@ Este projeto tem como objetivo identificar padrões de cancelamento (churn) de c
 1. Clone este repositório:
    ```bash
 
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/NeuroL2/Alura-Telecom-X
